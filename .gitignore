@@ -1,0 +1,28 @@
+# Environments
+.venv/
+env/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Data and large raw datasets
+data/*.zip
+data/True.csv
+data/Fake.csv
+data/fake_or_real_news.csv
+!data/*_domains.csv
+
+# Models (except lightweight checkpoints if needed)
+models/*.joblib
+
+# Streamlit
+.streamlit/
+
+# OS specific
+.DS_Store
+Thumbs.db

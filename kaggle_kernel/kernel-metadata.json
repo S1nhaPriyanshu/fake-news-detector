@@ -1,0 +1,17 @@
+{
+  "id": "schrod1ngerscat/fake-news-detector-training",
+  "title": "Fake News Detector Training",
+  "code_file": "fake_news_training.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_tpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [
+    "clmentbisaillon/fake-and-real-news-dataset"
+  ],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}
